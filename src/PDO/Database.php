@@ -6,6 +6,9 @@
  */
 namespace Slim\PDO;
 
+/**
+* Imports
+*/
 use Slim\PDO\Statement\SelectStatement;
 use Slim\PDO\Statement\InsertStatement;
 use Slim\PDO\Statement\UpdateStatement;
@@ -44,7 +47,7 @@ class Database extends \PDO
      *
      * @return SelectStatement
      */
-    public function select(array $columns = array('*'))
+    public function select(array $columns = array("*"))
     {
         return new SelectStatement($this, $columns);
     }
