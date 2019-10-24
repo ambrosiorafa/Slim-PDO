@@ -1,6 +1,6 @@
 # Slim-PDO
 
-PDO database library for Slim Frameworkkkk
+PDO database library for Slim Framework
 
 ### Installation
 
