@@ -83,3 +83,5 @@ See [CHANGELOG](https://github.com/FaaPz/Slim-PDO/blob/master/CHANGELOG.md)
 ### License
 
 See [LICENSE](https://github.com/FaaPz/Slim-PDO/blob/master/LICENSE)
+
+tchaubrigado!
