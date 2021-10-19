@@ -1,5 +1,6 @@
 ### INSERT statement
 
+//Metodos
 ##### Methods
 
 + `into()`
